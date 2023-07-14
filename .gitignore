@@ -1,2 +1,6 @@
 *.hex
 *.o
+*.vim
+*.swp
+*.exe
+old/
